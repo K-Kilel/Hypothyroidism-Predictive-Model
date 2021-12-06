@@ -36,7 +36,7 @@ Create a model based on SVM.
 
 Conclusion.
 
-DA**TA RELEVANCE**
+**DATA RELEVANCE**
 
 This data was collected by Nairobi Hospital. The link to the dataset is provided below:
 
